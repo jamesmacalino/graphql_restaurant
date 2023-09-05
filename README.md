@@ -12,3 +12,5 @@
     setrestaurant: This creates a new restaurant. 
     Deleterestaurant: This deletes a restaurant based on the provided id.
     editrestaurant: This updates a restaurant based on the provided id.
+
+https://github.com/jamesmacalino/graphql_restaurant
