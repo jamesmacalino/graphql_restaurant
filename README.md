@@ -1,3 +1,3 @@
-#GraphQL Restaurant Exercise
+# GraphQL Restaurant Exercise
 
-##Application to Display Restaurant Data and Edit Data via GraphQL
+## Application to Display Restaurant Data and Edit Data via GraphQL
